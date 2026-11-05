@@ -26,6 +26,14 @@ https://www.loofy.com.tr/contact/
 ![image](https://user-images.githubusercontent.com/118697424/228092179-7afcf622-ce72-4049-8ae6-7867b2b90fb9.png)
 
 
+
+## 📝 TODO
+
+- [ ] Add more features to the site
+- [ ] Fix any bugs that are found
+- [ ] Improve site performance
+- [ ] Add more documentation
+
 ## 📄 License
 
 MIT © [TeqN2022](./LICENSE)
