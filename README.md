@@ -27,7 +27,7 @@ https://www.loofy.com.tr/contact/
 
 
 
-## 📝 TODO
+### Complete TODO List
 
 - [ ] Add more features to the site
 - [ ] Fix any bugs that are found
